@@ -1,51 +1,24 @@
-# User Settings | Edit there as per required
-
 title: Ivan's Blog
-url: "http://ankitsultana.me"
-baseurl: "/accent"
+url: "http://ivanshen.me"
+baseurl: "/blog.ivan"
 
-# This will show up at the top of index page
 site_heading: >
     blog.ivan
 
-email: your@email.com
-author: yourname
-# This description will show up in google search results
-# (for index page) etc.
+email: iwshen11@gmail.com
+author: Ivan Shen
+
 description: >
     accent is, as Trump would put it, the best
 
-# This will what will show against &copy; in the footer
-copyright: accent
-# Toggle your short bio, which will displayed on your index page
-# Just toggle it and run jekyll again to see
-intro: false         # Tip: Remove the span from site_heading if intro is set to true
-# This will be displayed in your intro
-short_bio: >
-    Welcome! This is <span>accent</span>, a mobile friendly theme for Jekyll. The main feature of this
-    theme is that you can change the accent color. Refer the
-    <a class="underline different-highlight" href="http://ankitsultana.me/accent/documentation.html">
-        Documentation
-    </a>
-    to know how.
+copyright: Ivan Shen
+intro: false         
 
 permalink: /:title.html
 
-# Comments are powered by disqus
 comments: false
 
-# keep about_stub roughly 12 words long for best results
-# This will show up at the bottom of each post
-# Note that about_footer should be true if you want
-# to see author information at the bottom of each post
-about_stub: >
-    Keep this sentence less than 13 words or it won't look good.
-
 about_footer: false
-
-twitter_username: Ivan Shen
-github_username: ivanshen
-facebook_id: yourusername
 
 favicon: true
 favicon_location: "images/favicon.ico"
@@ -62,7 +35,7 @@ twitter_image: "http://ankitsultana.me/images/accent.png?1234" # This will show 
 ####################################
 ####################################
 ####################################
-### Build Settings | Don't Touch ###
+######### Build Settings  ##########
 ####################################
 ####################################
 ####################################
